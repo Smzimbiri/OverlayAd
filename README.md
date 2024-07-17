@@ -1,4 +1,4 @@
-# Integración del Script en el Head del Sitio Web
+# Integra el Script en el Head del Sitio Web
 Este script te permite controlar la frecuencia y duración de visualización de anuncios en tu sitio web utilizando los atributos HTML data-time-view y data-cookie-view.
 
 ## Atributos Utilizados:
