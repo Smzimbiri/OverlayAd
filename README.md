@@ -14,7 +14,7 @@ Para mostrar el anuncio cada 1 minuto: **data-cookie-view="1"**.
 
 Para cargar el anuncio siempre que se cargue la página: **data-cookie-view="0"**.
 
-## Modificación según Necesidades:
+## Modifica el script según tus necesidades:
 Puedes ajustar **data-time-view** para cambiar la duración de visualización del anuncio según tus requisitos específicos.
 
 Utiliza **data-cookie-view** para controlar con qué frecuencia se muestra el anuncio, cambiando el valor según la frecuencia deseada (en minutos).
