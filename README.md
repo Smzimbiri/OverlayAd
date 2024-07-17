@@ -6,9 +6,9 @@ Este script te permite controlar la frecuencia y duración de visualización de 
 
 ## Ejemplo: 
 **data-time-view="8"** (el anuncio se cerrará automáticamente después de 8 segundos de visualización).
-data-cookie-view: Establece el intervalo mínimo en minutos para que el anuncio vuelva a mostrarse.
+**data-cookie-view**: Establece el intervalo mínimo en minutos para que el anuncio vuelva a mostrarse.
 
-## Ejemplos:
+## Ejemplo:
 Para mostrar el anuncio cada 1 minuto: **data-cookie-view="1"**.
 Para cargar el anuncio siempre que se cargue la página: **data-cookie-view="0"**.
 
