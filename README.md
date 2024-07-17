@@ -1,5 +1,5 @@
 # Integra el Script en el Head del Sitio Web
-Este script te permite controlar la frecuencia y duración de visualización de anuncios en tu sitio web utilizando los atributos HTML data-time-view y data-cookie-view.
+Este script te permite controlar la frecuencia y duración de visualización de anuncios en tu sitio web utilizando los atributos HTML **data-time-view** y **data-cookie-view**.
 
 ## Atributos Utilizados:
 **data-time-view:** Define la duración en segundos que el anuncio estará visible antes de cerrarse automáticamente.
