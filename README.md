@@ -25,7 +25,7 @@ Utiliza **data-cookie-view** para controlar con qué frecuencia se muestra el an
     <div class="content-cnjk">
         <p class="ad-t">This is an advertisement. Wait <span id="counter-ad"></span> seconds...</p>
         <!-- ads here -->
-        <img src="https://via.placeholder.com/300x250" alt="ad-300x250">
+
     </div>
 </div>
 <script src="https://cdn.jsdelivr.net/gh/eswhik/OverlayAd/app.js"></script>
